@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Personal Notes</title>
+    <description>Scrolling custom notes</description>
+    <link>https://example.com</link>
+
+    <item>
+      <title>কাজের তালিকা</title>
+      <description>ঘুম থেকে উঠে নামাজ, তারপর প্র্যাকটিস।</description>
+      <link>https://example.com/note1</link>
+    </item>
+
+    <item>
+      <title>উক্তি</title>
+      <description>পরিশ্রম কখনো ব্যর্থ হয় না।</description>
+      <link>https://example.com/note2</link>
+    </item>
+  </channel>
+</rss>
